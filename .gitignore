@@ -1,0 +1,13 @@
+MoRA/checkpoints/
+MoRA/groundmore_videos/
+MoRA/outputs/
+MoRA/results/
+*.safetensors
+*.pth
+*.bin
+*.npy
+*.mp4
+*.tar
+*.zip
+__pycache__/
+*.pyc
